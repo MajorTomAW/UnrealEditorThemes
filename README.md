@@ -1,4 +1,4 @@
-# UnrealEditorThemes
+# Unreal Editor Themes
 Unreal Editor Color Themes that I daily use
 
 ## OLED Theme
